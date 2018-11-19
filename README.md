@@ -3,6 +3,8 @@ Universidad Anáhuac Mayab
 
 Professor: Geovanny Giorgana
 
+Notes and descriptions for each activity are included in the "PIC18F4550" PDF file. 
+
 # Software
 - IDE: MPLAB X
 - Compiler: XC8
